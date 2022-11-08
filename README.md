@@ -1,6 +1,6 @@
 # Douglas Alves Marcelino :duck:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Douglas%20Alves%20Marcelino-ff7f00?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-alves-marcelino-704250180/)](https://www.linkedin.com/in/douglas-alves-marcelino-704250180/) [![Gmail Badge](https://img.shields.io/badge/-douglasmarcelinodev@gmail.com-ff7f00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasmarcelinodev@gmail.com)](mailto:douglasmarcelinodev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Douglas%20Alves%20Marcelino-ff7f00?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-alves-marcelino/)](https://www.linkedin.com/in/douglas-alves-marcelino/) [![Gmail Badge](https://img.shields.io/badge/-douglasmarcelinodev@gmail.com-ff7f00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasmarcelinodev@gmail.com)](mailto:douglasmarcelinodev@gmail.com)
 
 Desenvolvedor Front-end (ReactJS) Júnior, com conhecimentos em Back-end;
 
